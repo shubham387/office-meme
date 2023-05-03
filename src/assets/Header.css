@@ -1,0 +1,15 @@
+header {
+    padding: 15px 20px;
+}
+.index-site {
+    text-align: left;
+    font-size: 1.2em;
+}
+#logo {
+    width: 100%;
+    max-width: 60px;
+}
+#course-section {
+    justify-content: flex-end;
+    font-size: 1.2em;
+}

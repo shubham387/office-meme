@@ -1,0 +1,17 @@
+input, button {
+    border-radius: 5px;
+    border: 1px solid;
+    padding: 10px;
+}
+.submit-button {
+    cursor: pointer;
+    padding: 15px;
+    border: none;
+}
+.submit-button:hover {
+    box-shadow: 0px 0px 25px #a319d3;
+}
+
+#meme-section {
+    padding: 0px 10px;
+}
