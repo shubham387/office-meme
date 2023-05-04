@@ -1,6 +1,7 @@
 :root{
     --text-primary: #fff;
     --text-secondary: #0D0D0D;
+    --border-color: #D5D4D8;
     color: var(--text-primary);
 }
 * {
@@ -71,7 +72,9 @@ img {
 .grid-5{
     grid-template-columns: repeat(5, 1fr);
 }
-
+.m-auto {
+    margin: auto;
+}
 
 
 

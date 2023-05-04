@@ -1,12 +1,14 @@
 input, button {
     border-radius: 5px;
-    border: 1px solid;
+    border: 1px solid var(--border-color);
     padding: 10px;
 }
 .submit-button {
     cursor: pointer;
     padding: 15px;
     border: none;
+    font-size: 1.1em;
+    font-weight: 500;
 }
 .submit-button:hover {
     box-shadow: 0px 0px 25px #a319d3;
