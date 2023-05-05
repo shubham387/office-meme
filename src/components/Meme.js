@@ -5,7 +5,7 @@ import memeData from '../assets/MemesData'
 
 function Meme(){
     const [allMemeImages, setAllMemeImages] = useState(memeData);
-    const[memeImage, updateMeme] = useState('')
+    const[memeImage, updateMeme] = useState('https://i.imgflip.com/30b1gx.jpg')
 
 
     function getMemeImage(){
