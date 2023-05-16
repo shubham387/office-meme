@@ -17,3 +17,19 @@ input, button {
 #meme-section {
     padding: 0px 10px;
 }
+.meme-output {
+    position: relative;
+}
+.meme-text {
+    position: absolute;
+    text-align: center;
+    left: 0;
+    right: 0;
+    font-size: 3rem;
+    word-wrap: break-word;
+    -webkit-text-stroke: #000;
+    -webkit-text-stroke-width: 2px;
+  }
+  .meme-text.bottom{
+    bottom: 0px;
+  }
